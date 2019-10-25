@@ -1,0 +1,18 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #222222;
+  text-align: center;
+}
+
+#cnv
+{
+  margin: auto;
+}
+
+img
+{
+  display: none;
+}

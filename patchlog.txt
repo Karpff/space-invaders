@@ -1,0 +1,32 @@
+1.0:
+  -Hitbox statku zmieniony z 30 na 27.
+  -Hitbox kosmity 1 zmieniony z 25 na 23.
+  -Hitbox kosmity 2 zmieniony z 25 na 19.
+  -Hitbox kosmity 3 zmieniony z 25 na 15.
+  -Rozmiar kosmitów zmieniony tak, by pasował do hitboxów.
+  -Kosmici zaczynają teraz na środku ekranu zamiast z jego lewej strony.
+  -Wysokość startowa kosmitów zmieniona z 100 na 140.
+  -Wysokość kosmitów jest teraz przekazywana do następnej fali.
+  -Przyśpieszenie gry na zabitego kosmitę zmienione z 0.2 na 0.25.
+
+1.0 - tldr:
+  -Hitbox statku: 30 -> 27.
+  -Hitbox kosmity 1: 25 -> 23.
+  -Hitbox kosmity 2: 25 -> 19.
+  -Hitbox kosmity 3: 25 -> 15.
+  -Rozmiar kosmitów zmieniony tak, by pasował do hitboxów.
+  -Kosmici zaczynają teraz na środku ekranu zamiast z jego lewej strony.
+  -Wysokosć startowa kosmitów: 100 -> 140.
+  -Wysokość kosmitów jest teraz przekazywana do następnej fali.
+  -Przyśpieszenie gry na zabitego kosmitę: 0.2 -> 0.25.
+
+1.0 - tldr (english):
+  -Ship Hitbox: 30 -> 27.
+  -Alien 1 Hitbox: 25 -> 23.
+  -Alien 2 Hitbox: 25 -> 19.
+  -Alien 3 Hitbox: 25 -> 15.
+  -Aliens size changed so that it matches its hitbox.
+  -Aliens now start at the center of the screen instead of its left side.
+  -Aliens starting height: 100 -> 140.
+  -Aliens height is now passed to next wave.
+  -Speed up per alien killed: 0.2 -> 0.25.
